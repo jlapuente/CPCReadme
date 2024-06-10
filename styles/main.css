@@ -54,3 +54,10 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
+
+h1 img {
+  max-height: 50px;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 10px;
+}
