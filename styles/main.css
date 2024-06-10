@@ -1,0 +1,50 @@
+body {
+  background-color: #fdf7e2;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: 'Oswald', sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  background: url('./images/fondo-papel.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 30px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+  border: 1px solid #ddd;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #333;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+.divider {
+  border-top: 1px solid #ddd;
+  margin: 40px 0;
+}
+
+.page-footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 50px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+}
+
+* {
+    font-family: 'Oswald', sans-serif;
+}
