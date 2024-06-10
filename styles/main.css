@@ -46,5 +46,11 @@ p {
 }
 
 * {
-    font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+
+.text-center img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
