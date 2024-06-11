@@ -61,3 +61,19 @@ h1 img {
   vertical-align: middle;
   margin-right: 10px;
 }
+
+ul.permisos {
+  list-style-type: " - "
+}
+
+.yellow-text {
+  color: #fc0;
+}
+
+.red-text {
+  color: #ff4e45;
+}
+
+.orange-text {
+  color: orange;
+}
